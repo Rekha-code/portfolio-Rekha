@@ -272,5 +272,15 @@ export const projects = [
     github: "https://github.com/Rekha-code/Bakery-website-HtmlCssJs",
     webapp: "https://rekha-code.github.io/Bakery-website-HtmlCssJs/",
   },
+  {
+    id: 9,
+    title: "login-page",
+    description:
+      "Baker's Kitchen is an online platform that specializes in offering kitchen essentials and appliances. It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "web app",
+    github: "https://github.com/Rekha-code/login-page",
+    webapp: "https://login-page-pied-gamma.vercel.app/",
+  },
 ];
 
