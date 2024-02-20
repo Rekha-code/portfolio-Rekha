@@ -193,49 +193,37 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
-    title: "HRM Management System ",
-    description:
-      "HRM Management System  is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Laravel",
-      "MySql",
-    ],
-    category: "web app",
-    webapp:" https://hrm.ideastack.com",
-  },
-  {
     id: 1,
-    title: "Indocount",
+    title: "FarmEasy",
     description:
-      "Indo Count is a specialized end-to-end bedding provider that is solely focused on creating all-encompassing sleep experiences. Our passion and global vision have allowed us to enter 49 markets with the objective of continuing to add more every year. We are also the preferred partner for some of the best-known retail, hospitality and fashion brands in the world. We are fast, agile, and respond to the needs of clients with solutions that make a difference in consumers’ lives.",
-    tags: ["Wordpress", "HTML", "CSS", "Bootstrap",],
+      "Welcome to FarmEasy, an online ecommerce site for providing fresh farm product to customers in no time with zero delivery charges.We at Farmeasy care for the health and diet plans of our customers so we are here to serve them.Farmeasy is approved by quality control department.All products offer by farmeasy are 100% organic.",
+    tags: ["HTML","CSS","Bootstrap", "JavaScript"],
     category: "web app",
-    webapp: "https://www.indocount.com/",
+    github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
+    webapp: "https://easy-farm-ecommerce-website.vercel.app",
   },
   {
     id: 2,
-    title: "ERP",
+    title: "healthy-food-app",
     description:
-      "ERP systems can improve efficiency and streamline operations by providing real-time data and automated workflows. The implementation of an ERP system typically requires extensive planning, training, and integration with existing systems. Successful ERP projects require effective communication, clear project goals, and a strong team.",
-    tags: ["HTML", "CSS","Bootstrap","Javascript","Laravel"],
+      "Healthy Food is an easy-to-use application helping you to eat more healthy.",
+    tags: ["React","CSS","Bootstrap"],
     category: "web app",
-    webapp: "http://erp.itransparity.com",
+    github: "https://github.com/Rekha-code/healthy-food",
+    webapp: "https://healthy-food-tau.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "registration-app",
+    description:
+      " The registration-app in React refers to a web application that uses React to implement its user interface for registering users. It can include inputs for firstname,lastname,phoneno, email, password, etc., and use React hooks to manage application state and perform form validation.",
+    tags: ["React","CSS","Bootstrap"],
+    category: "web app",
+    github: "https://github.com/Rekha-code/registration-app",
+    webapp: "https://registration-app-nine.vercel.app/",
   },
   {
     id: 3,
-    title: "Ctrl Visa",
-    description:
-      "A control visa project refers to a detailed plan or program designed to ensure effective management and monitoring of visa applications and issuance. The goal of the project is to minimize fraud, streamline the visa application process, and improve overall security.",
-    tags: ["HTML", "CSS", "Bootstrap", "Javascript","Laravel","Mysql"],
-    category: "web app",
-    webapp: "https://uat.ctrlvisa.com",
-  },
-  {
-    id: 10,
     title: "Hotel-website",
     description:
       "These websites are typically created using HTML, CSS, and JavaScript, which are three fundamental technologies used in web development.",
