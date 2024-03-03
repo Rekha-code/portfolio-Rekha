@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Rekha-code",
   resume:
-    "https://azure-blondell-35.tiiny.site/",
+    "https://app.talenlio.com/showcase/r/undefined---Rekha-Gorde-12580",
   linkedin: "https://www.linkedin.com/in/rekha-suhas-gorde-a66732221/",
 };
 
@@ -276,11 +276,20 @@ export const projects = [
     id: 9,
     title: "login-page",
     description:
-      "Baker's Kitchen is an online platform that specializes in offering kitchen essentials and appliances. It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
+      " It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/Rekha-code/login-page",
     webapp: "https://login-page-pied-gamma.vercel.app/",
+  },
+  {
+    id: 10,
+    title: "login-register-app",
+    description:"Creating a login/register app in React involves building components for user authentication, managing user data, and incorporating routing for different views.",
+    tags: ["React", "CSS"],
+    category: "web app",
+    github: "https://github.com/Rekha-code/login-register-app",
+    webapp: "https://login-register-app-three.vercel.app/",
   },
 ];
 
