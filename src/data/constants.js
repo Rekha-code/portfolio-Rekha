@@ -199,7 +199,7 @@ export const projects = [
       "Welcome to FarmEasy, an online ecommerce site for providing fresh farm product to customers in no time with zero delivery charges.We at Farmeasy care for the health and diet plans of our customers so we are here to serve them.Farmeasy is approved by quality control department.All products offer by farmeasy are 100% organic.",
     tags: ["HTML","CSS","Bootstrap", "JavaScript"],
     category: "web app",
-    github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
+    // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
     webapp: "https://easy-farm-ecommerce-website.vercel.app",
   },
   {
@@ -208,7 +208,7 @@ export const projects = [
     description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. The project aims to create an interactive and user-friendly platform for students and teachers to learn, collaborate, and communicate. The application will have features such as course management, discussion forums, and real-time feedback.",
     tags: ["React", "CSS"],
     category: "web app",
-    github: "https://github.com/Rekha-code/edusity",
+    // github: "https://github.com/Rekha-code/edusity",
     webapp: "https://edusity.vercel.app/",
   },
   {
@@ -218,19 +218,19 @@ export const projects = [
       "Healthy Food is an easy-to-use application helping you to eat more healthy.",
     tags: ["React","CSS","Bootstrap"],
     category: "web app",
-    github: "https://github.com/Rekha-code/healthy-food",
+    // github: "https://github.com/Rekha-code/healthy-food",
     webapp: "https://healthy-food-tau.vercel.app/",
   },
-  {
-    id: 8,
-    title: "registration-app",
-    description:
-      " The registration-app in React refers to a web application that uses React to implement its user interface for registering users. It can include inputs for firstname,lastname,phoneno, email, password, etc., and use React hooks to manage application state and perform form validation.",
-    tags: ["React","CSS","Bootstrap"],
-    category: "web app",
-    github: "https://github.com/Rekha-code/registration-app",
-    webapp: "https://registration-app-nine.vercel.app/",
-  },
+  // {
+  //   id: 8,
+  //   title: "registration-app",
+  //   description:
+  //     " The registration-app in React refers to a web application that uses React to implement its user interface for registering users. It can include inputs for firstname,lastname,phoneno, email, password, etc., and use React hooks to manage application state and perform form validation.",
+  //   tags: ["React","CSS","Bootstrap"],
+  //   category: "web app",
+  //   // github: "https://github.com/Rekha-code/registration-app",
+  //   webapp: "https://registration-app-nine.vercel.app/",
+  // },
   {
     id: 3,
     title: "Hotel-website",
@@ -238,29 +238,29 @@ export const projects = [
       "These websites are typically created using HTML, CSS, and JavaScript, which are three fundamental technologies used in web development.",
     tags: ["HTML","CSS","Bootstrap", "JavaScript"],
     category: "web app",
-    github: "https://github.com/Rekha-code/hotel-single-page-website",
+    // github: "https://github.com/Rekha-code/hotel-single-page-website",
     webapp: "https://hotel-single-page-website.vercel.app/",
   },
-  {
-    id: 4,
-    title: "Card Filter Website",
-    description:
-      "A card filter website using HTML, CSS, and JavaScript is a web application that allows users to filter, sort, and display data using cards.",
-    tags: ["HTML", "CSS","Bootstrap", "Javascript",],
-    category: "web app",
-    github: "https://github.com/Rekha-code/card-filter-website-htmlcssjs",
-    webapp: "https://rekha-code.github.io/card-filter-website-htmlcssjs/",
-  },
-  {
-    id: 5,
-    title: "Todo Weadther App",
-    description:
-      " A Todo Web App made with React JS. users can create a new task. It has a search bar where users can search for a particular task.",
-    tags: ["React Js", "HTML", "CSS", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/Rekha-code/todo-Weather-react",
-    webapp: "https://rekha-code.github.io/todo-Weather-react/",
-  },
+  // {
+  //   id: 4,
+  //   title: "Card Filter Website",
+  //   description:
+  //     "A card filter website using HTML, CSS, and JavaScript is a web application that allows users to filter, sort, and display data using cards.",
+  //   tags: ["HTML", "CSS","Bootstrap", "Javascript",],
+  //   category: "web app",
+  //   // github: "https://github.com/Rekha-code/card-filter-website-htmlcssjs",
+  //   webapp: "https://rekha-code.github.io/card-filter-website-htmlcssjs/",
+  // },
+  // {
+  //   id: 5,
+  //   title: "Todo Weadther App",
+  //   description:
+  //     " A Todo Web App made with React JS. users can create a new task. It has a search bar where users can search for a particular task.",
+  //   tags: ["React Js", "HTML", "CSS", "Bootstrap"],
+  //   category: "web app",
+  //   // github: "https://github.com/Rekha-code/todo-Weather-react",
+  //   webapp: "https://rekha-code.github.io/todo-Weather-react/",
+  // },
   {
     id: 6,
     title: "Restaurant",
@@ -268,7 +268,7 @@ export const projects = [
       "A simple react app Restaurant that allows users to order food  from a restaurant.",
     tags: ["React Js", "API", "Axios"],
     category: "web app",
-    github: "https://github.com/Rekha-code/restaurant-incrdecre-react",
+    // github: "https://github.com/Rekha-code/restaurant-incrdecre-react",
     webapp: "https://rekha-code.github.io/restaurant-incrdecre-react/",
   },
   {
@@ -278,28 +278,28 @@ export const projects = [
       "Baker's Kitchen is an online platform that specializes in offering kitchen essentials and appliances. It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
-    github: "https://github.com/Rekha-code/Bakery-website-HtmlCssJs",
+    // github: "https://github.com/Rekha-code/Bakery-website-HtmlCssJs",
     webapp: "https://rekha-code.github.io/Bakery-website-HtmlCssJs/",
   },
-  {
-    id: 9,
-    title: "login-page",
-    description:
-      " It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
-    tags: ["HTML", "CSS", "Javascript"],
-    category: "web app",
-    github: "https://github.com/Rekha-code/login-page",
-    webapp: "https://login-page-pied-gamma.vercel.app/",
-  },
-  {
-    id: 10,
-    title: "login-register-app",
-    description:"Creating a login/register app in React involves building components for user authentication, managing user data, and incorporating routing for different views.",
-    tags: ["React", "CSS"],
-    category: "web app",
-    github: "https://github.com/Rekha-code/login-register-app",
-    webapp: "https://login-register-app-three.vercel.app/",
-  },
+  // {
+  //   id: 9,
+  //   title: "login-page",
+  //   description:
+  //     " It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
+  //   tags: ["HTML", "CSS", "Javascript"],
+  //   category: "web app",
+  //   github: "https://github.com/Rekha-code/login-page",
+  //   webapp: "https://login-page-pied-gamma.vercel.app/",
+  // },
+  // {
+  //   id: 10,
+  //   title: "login-register-app",
+  //   description:"Creating a login/register app in React involves building components for user authentication, managing user data, and incorporating routing for different views.",
+  //   tags: ["React", "CSS"],
+  //   category: "web app",
+  //   github: "https://github.com/Rekha-code/login-register-app",
+  //   webapp: "https://login-register-app-three.vercel.app/",
+  // },
   
 ];
 
