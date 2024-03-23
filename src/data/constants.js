@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Rekha-code",
   resume:
-    "https://app.talenlio.com/showcase/r/undefined---Rekha-Gorde-12580",
+    "https://showcase.talenlio.com/r/undefined---Rekha-Gorde-12580",
   linkedin: "https://www.linkedin.com/in/rekha-suhas-gorde-a66732221/",
 };
 
