@@ -204,7 +204,7 @@ export const projects = [
   },
   {
     id: 11,
-    title: "edusity",
+    title: "Edusity",
     description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. The project aims to create an interactive and user-friendly platform for students and teachers to learn, collaborate, and communicate. The application will have features such as course management, discussion forums, and real-time feedback.",
     tags: ["React", "CSS"],
     category: "web app",
