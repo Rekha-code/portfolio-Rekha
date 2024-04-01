@@ -193,7 +193,55 @@ export const education = [
 
 export const projects = [
   {
+    id: 10,
+    title: "Indocount",
+    description:
+      " It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
+    tags: ["HTML", "CSS","Wordpress", "Laravel"],
+    category: "web app",
+    webapp: "https://www.indocount.com/",
+  },
+  {
     id: 1,
+    title: "SHOPPER",
+    description:"Shopper is a comprehensive ecommerce platform built using React.js for the frontend, Express.js and Node.js for the backend, and MongoDB for the database. It provides users with a seamless shopping experience and empowers administrators with robust tools to manage products, orders, and users efficiently through an intuitive admin panel.",
+    tags: ["React", "CSS","ExpressJs","NodeJs","MonogoDB"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/edusity",
+    webapp: "",
+  },
+  {
+    id: 2,
+    title: "Tomato.",
+    description:
+      "Food delivery ecommerce website built using React.js, offering a seamless platform for users to explore, order, and enjoy a wide range of culinary delights from local restaurants.",
+    tags: ["Reactjs","CSS"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
+    webapp: "https://food-delivery-frontend-black.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "VidTube",
+    description:
+      "Youtube Clone is a responsive web application built using React.js that replicates the core functionality and user experience of YouTube. This clone offers users a familiar interface for discovering, watching, and sharing videos on a variety of topics.",
+    tags: ["Reactjs","CSS"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
+    webapp: "https://youtube-clone-wheat-gamma.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Edusity",
+    description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. The project aims to create an interactive and user-friendly platform for students and teachers to learn, collaborate, and communicate. The application will have features such as course management, discussion forums, and real-time feedback.",
+    tags: ["React", "CSS"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/edusity",
+    webapp: "https://edusity.vercel.app/",
+  },
+  
+  {
+    id: 5,
     title: "FarmEasy",
     description:
       "Welcome to FarmEasy, an online ecommerce site for providing fresh farm product to customers in no time with zero delivery charges.We at Farmeasy care for the health and diet plans of our customers so we are here to serve them.Farmeasy is approved by quality control department.All products offer by farmeasy are 100% organic.",
@@ -202,17 +250,9 @@ export const projects = [
     // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
     webapp: "https://easy-farm-ecommerce-website.vercel.app",
   },
+  
   {
-    id: 11,
-    title: "Edusity",
-    description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. The project aims to create an interactive and user-friendly platform for students and teachers to learn, collaborate, and communicate. The application will have features such as course management, discussion forums, and real-time feedback.",
-    tags: ["React", "CSS"],
-    category: "web app",
-    // github: "https://github.com/Rekha-code/edusity",
-    webapp: "https://edusity.vercel.app/",
-  },
-  {
-    id: 2,
+    id: 6,
     title: "healthy-food-app",
     description:
       "Healthy Food is an easy-to-use application helping you to eat more healthy.",
@@ -221,18 +261,8 @@ export const projects = [
     // github: "https://github.com/Rekha-code/healthy-food",
     webapp: "https://healthy-food-tau.vercel.app/",
   },
-  // {
-  //   id: 8,
-  //   title: "registration-app",
-  //   description:
-  //     " The registration-app in React refers to a web application that uses React to implement its user interface for registering users. It can include inputs for firstname,lastname,phoneno, email, password, etc., and use React hooks to manage application state and perform form validation.",
-  //   tags: ["React","CSS","Bootstrap"],
-  //   category: "web app",
-  //   // github: "https://github.com/Rekha-code/registration-app",
-  //   webapp: "https://registration-app-nine.vercel.app/",
-  // },
   {
-    id: 3,
+    id: 7,
     title: "Hotel-website",
     description:
       "These websites are typically created using HTML, CSS, and JavaScript, which are three fundamental technologies used in web development.",
@@ -241,38 +271,8 @@ export const projects = [
     // github: "https://github.com/Rekha-code/hotel-single-page-website",
     webapp: "https://hotel-single-page-website.vercel.app/",
   },
-  // {
-  //   id: 4,
-  //   title: "Card Filter Website",
-  //   description:
-  //     "A card filter website using HTML, CSS, and JavaScript is a web application that allows users to filter, sort, and display data using cards.",
-  //   tags: ["HTML", "CSS","Bootstrap", "Javascript",],
-  //   category: "web app",
-  //   // github: "https://github.com/Rekha-code/card-filter-website-htmlcssjs",
-  //   webapp: "https://rekha-code.github.io/card-filter-website-htmlcssjs/",
-  // },
-  // {
-  //   id: 5,
-  //   title: "Todo Weadther App",
-  //   description:
-  //     " A Todo Web App made with React JS. users can create a new task. It has a search bar where users can search for a particular task.",
-  //   tags: ["React Js", "HTML", "CSS", "Bootstrap"],
-  //   category: "web app",
-  //   // github: "https://github.com/Rekha-code/todo-Weather-react",
-  //   webapp: "https://rekha-code.github.io/todo-Weather-react/",
-  // },
   {
-    id: 6,
-    title: "Restaurant",
-    description:
-      "A simple react app Restaurant that allows users to order food  from a restaurant.",
-    tags: ["React Js", "API", "Axios"],
-    category: "web app",
-    // github: "https://github.com/Rekha-code/restaurant-incrdecre-react",
-    webapp: "https://rekha-code.github.io/restaurant-incrdecre-react/",
-  },
-  {
-    id: 7,
+    id: 8,
     title: "Bakery",
     description:
       "Baker's Kitchen is an online platform that specializes in offering kitchen essentials and appliances. It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
@@ -281,16 +281,17 @@ export const projects = [
     // github: "https://github.com/Rekha-code/Bakery-website-HtmlCssJs",
     webapp: "https://rekha-code.github.io/Bakery-website-HtmlCssJs/",
   },
-  // {
-  //   id: 9,
-  //   title: "login-page",
-  //   description:
-  //     " It features a simple and user-friendly website built on HTML, CSS, and JavaScript technologies.",
-  //   tags: ["HTML", "CSS", "Javascript"],
-  //   category: "web app",
-  //   github: "https://github.com/Rekha-code/login-page",
-  //   webapp: "https://login-page-pied-gamma.vercel.app/",
-  // },
+  {
+    id: 9,
+    title: "Blogim!",
+    description:
+      " ReactSocial is a lightweight social media website built using React.js, designed to provide users with a platform for connecting, sharing content, and engaging with others in a simple and intuitive manner.",
+    tags: ["React","CSS","Bootstrap"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/registration-app",
+    webapp: "https://social-media-jet.vercel.app/",
+  },
+ 
   // {
   //   id: 10,
   //   title: "login-register-app",
