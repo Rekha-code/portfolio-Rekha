@@ -208,7 +208,8 @@ export const projects = [
     tags: ["React", "CSS","ExpressJs","NodeJs","MonogoDB"],
     category: "web app",
     // github: "https://github.com/Rekha-code/edusity",
-    webapp: "",
+    // https://www.veed.io/view/47c9335a-455b-494d-8045-1fc3e1947257?panel=share
+    webapp: "https://www.veed.io/view/94283b7d-436a-410b-b19b-6bdef03bcbbf?panel=share",
   },
   {
     id: 2,
@@ -291,7 +292,16 @@ export const projects = [
     // github: "https://github.com/Rekha-code/registration-app",
     webapp: "https://social-media-jet.vercel.app/",
   },
- 
+  {
+    id: 10,
+    title: "News",
+    description:
+      "A news app using React is a web application built using the React JavaScript library, which allows developers to create dynamic user interfaces for web applications. The app is designed to deliver news content to users in an efficient and user-friendly manner.",
+    tags: ["Reactjs","CSS"],
+    category: "web app",
+    // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
+    webapp: "https://www.veed.io/view/47c9335a-455b-494d-8045-1fc3e1947257?panel=share",
+  },
   // {
   //   id: 10,
   //   title: "login-register-app",
