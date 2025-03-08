@@ -193,6 +193,15 @@ export const education = [
 
 export const projects = [
   {
+    id: 11,
+    title: "QuickCart",
+    description:
+      "A Full Stack E-commerce website using Next Js. In this project, we’ll use ‘Clerk’ for seamless user authentication and also integrate ‘Innget’ to efficiently manage background jobs.In this Next js full stack e-commerce project we will build the admin panel also where admin can upload the products, list the product and orders placed on this eCommerce website.For making the user authentication we will use clerk and to manage the clerk webhooks and other background tasks we will use Inngest's functions.In this full stack next js Ecommerce project we will build the cart functionality so that users can add the products in the cart and then they can place the order. To store the eCommerce products, orders and user data we will use MongoDB database in this project and to store the products images we will connect this full stack project with cloudinary storage.Once we finish building this eCommerce project using next js we will deploy in on vercel for free, so that any one can asses this e-Commerce website online.",
+    tags: ["Javascript","NextJs","NodeJs", "Tailwind CSS","MongoDB "],
+    category: "web app",
+    webapp: "https://quick-cart-tan.vercel.app/",
+  },
+  {
     id: 10,
     title: "Indocount",
     description:
