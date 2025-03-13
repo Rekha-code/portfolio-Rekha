@@ -239,8 +239,8 @@ export const projects = [
     id: 2,
     title: "Tomato.",
     description:
-      "Food delivery ecommerce website built using React.js, offering a seamless platform for users to explore, order, and enjoy a wide range of culinary delights from local restaurants.",
-    tags: ["Reactjs","CSS"],
+      "In this Full Stack Food delivery app project we will create the Frontend website, Admin Panel and Backend server.We will create the user authentication system so that anyone can create an account and login this food order website.We will create the shopping cart functionality so that user can add food items in their cart and order food from this app. We will also integrate the Stripe payment gateway to place the order and with online payment.",
+    tags: ["Reactjs","MongoDB","Express","Node JS"],
     category: "web app",
     // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
     webapp: "https://food-delivery-frontend-black.vercel.app/",
@@ -249,8 +249,8 @@ export const projects = [
     id: 3,
     title: "VidTube",
     description:
-      "Youtube Clone is a responsive web application built using React.js that replicates the core functionality and user experience of YouTube. This clone offers users a familiar interface for discovering, watching, and sharing videos on a variety of topics.",
-    tags: ["Reactjs","CSS"],
+      "Youtube Clone is a responsive web application built using React.js that replicates the core functionality and user experience of YouTube.In this react JS project we will use YouTube data API to get the YouTube video list and real time statistics of the YouTube videos.",
+    tags: ["Reactjs","YouTube Data API"],
     category: "web app",
     // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
     webapp: "https://youtube-clone-wheat-gamma.vercel.app/",
@@ -258,8 +258,8 @@ export const projects = [
   {
     id: 4,
     title: "Edusity",
-    description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. The project aims to create an interactive and user-friendly platform for students and teachers to learn, collaborate, and communicate. The application will have features such as course management, discussion forums, and real-time feedback.",
-    tags: ["React", "CSS"],
+    description:"The EduSity React Project is a project for an educational application that utilizes React, a JavaScript library for building user interfaces. We will create a college or University website in this tutorial. This website will be completely responsive and we will add react smooth scroll, slider and working contact form on this website. You can receive the contact form enquirers on your email address.",
+    tags: ["ReactJs", "CSS"],
     category: "web app",
     // github: "https://github.com/Rekha-code/edusity",
     webapp: "https://edusity.vercel.app/",
@@ -321,7 +321,7 @@ export const projects = [
     title: "News",
     description:
       "A news app using React is a web application built using the React JavaScript library, which allows developers to create dynamic user interfaces for web applications. The app is designed to deliver news content to users in an efficient and user-friendly manner.",
-    tags: ["Reactjs","CSS"],
+    tags: ["Reactjs","Bootstrap"],
     category: "web app",
     // github: "https://github.com/Rekha-code/EasyFarm-Ecommerce-Website",
     webapp: "https://www.veed.io/view/47c9335a-455b-494d-8045-1fc3e1947257?panel=share",
