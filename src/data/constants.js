@@ -208,6 +208,15 @@ export const projects = [
     webapp: "https://quick-cart-tan.vercel.app/",
   },
   {
+    id: 12,
+    title: "Doctor Appointment Booking System",
+    description:
+      " This full stack appointment booking system can be used by a doctor or a hospital. Because in this project we have created 3 level of authentication. 1st one is for Patients, so that patient can login on the website, book appointment with doctor and manage the booked appointment. 2nd one is doctor login, so that doctor can login and check the appointment and their earning. Doctor can update their profile also from dashboard. 3rd one is Admin Dashboard where admin can manages the appointment and admin can also manage the doctor profile.In this full stack application we will integrate the online payment gateways so that user can pay the appointment fee online on this website. ",
+    tags: ["ReactJs", "MongoDB","ExpressJs", "NodeJs"],
+    category: "web app",
+    webapp: "https://doctor-appointment-frontend-lime.vercel.app/",
+  },
+  {
     id: 10,
     title: "Indocount",
     description:
@@ -224,7 +233,7 @@ export const projects = [
     category: "web app",
     // github: "https://github.com/Rekha-code/edusity",
     // https://www.veed.io/view/47c9335a-455b-494d-8045-1fc3e1947257?panel=share
-    webapp: "https://www.veed.io/view/94283b7d-436a-410b-b19b-6bdef03bcbbf?panel=share",
+    webapp: "https://ecommerce-frontend-surg.onrender.com/",
   },
   {
     id: 2,
