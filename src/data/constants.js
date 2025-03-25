@@ -199,6 +199,15 @@ export const education = [
 
 export const projects = [
   {
+    id: 12,
+    title: "LMS App",
+    description:
+      " LMS Website using MERN Stack. This is a LMS website where educators can publish the courses online and students can enroll and watch the courses.In this full stack react project we will create the user Login and registration feature using Clerk. Clerk is a user authentication and user management platform. It  also provides beautiful and ready to use UI components like Sign-In, Sign-up and profile component for React app.",
+    tags: ["React","NodeJs", "Tailwind CSS","MongoDB","Expresss","Clerk auth"],
+    category: "web app",
+    webapp: "https://lms-app-iota.vercel.app/",
+  },
+  {
     id: 11,
     title: "QuickCart",
     description:
