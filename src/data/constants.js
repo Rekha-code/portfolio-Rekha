@@ -217,13 +217,22 @@ export const projects = [
     webapp: "https://quick-cart-tan.vercel.app/",
   },
   {
-    id: 12,
+    id: 13,
     title: "Doctor Appointment Booking System",
     description:
       " This full stack appointment booking system can be used by a doctor or a hospital. Because in this project we have created 3 level of authentication. 1st one is for Patients, so that patient can login on the website, book appointment with doctor and manage the booked appointment. 2nd one is doctor login, so that doctor can login and check the appointment and their earning. Doctor can update their profile also from dashboard. 3rd one is Admin Dashboard where admin can manages the appointment and admin can also manage the doctor profile.In this full stack application we will integrate the online payment gateways so that user can pay the appointment fee online on this website. ",
     tags: ["ReactJs", "MongoDB","ExpressJs", "NodeJs"],
     category: "web app",
     webapp: "https://doctor-appointment-frontend-lime.vercel.app/",
+  },
+  {
+    id: 14,
+    title: "Job Portal App",
+    description:
+      " A Full Stack Job Portal Website using MongoDB, Express, React and Node JS. Where job seekers can search for the job opening and apply for the job online. Job Seekers can also upload their resume on their profile. User authentication system for job seekers will be built using Clerk.After that we will build the recruiters dashboard, where recruiters can post a new job openings. Manage the published job post and manage the application on their job post. Recruiter will have the option to accept or reject the job application and they can also view the applicant's resume. ",
+    tags: ["ReactJs", "MongoDB","ExpressJs", "NodeJs"],
+    category: "web app",
+    webapp: "https://job-portal-frontend-zeta-bay.vercel.app/",
   },
   {
     id: 10,
