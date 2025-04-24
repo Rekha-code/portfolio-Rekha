@@ -199,6 +199,15 @@ export const education = [
 
 export const projects = [
   {
+    id: 15,
+    title: "Ranch Reality Luxuxy group",
+    description:
+      "As a family-owned business, we’ve been proudly serving Scottsdale and Maricopa County for last 50 years. Whether you’re looking to buy, sell, lease, or manage property, we have the expertise to make the process seamless and stress-free.We specialize in residential real estate sales, leasing, and property management for homes, condos, and townhouses across Scottsdale, Phoenix, Paradise Valley, and nearby areas. From McCormick Ranch to Troon, We here to help you find the perfect property or maximize the value of your investment.",
+    tags: ["Wordpress","Plugins"],
+    category: "web app",
+    webapp: "https://lemonchiffon-ferret-701715.hostingersite.com/",
+  },
+  {
     id: 12,
     title: "LMS App",
     description:
